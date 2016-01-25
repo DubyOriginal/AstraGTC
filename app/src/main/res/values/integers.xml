@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- CONSTANTS -->
+    <!-- ********************************************************************************** -->
+    <integer name="frame_anim_delay">700</integer>
+
+
+    <!-- ARRAY -->
+    <!-- ********************************************************************************** -->
+    <!--
+     <integer-array name="astra_imgs">
+         <item>@drawable/img_100</item>
+         <item>@drawable/img_102</item>
+         <item>@drawable/img_104</item>
+         <item>@drawable/img_106</item>
+         <item>@drawable/img_108</item>
+         <item>@drawable/img_110</item>
+         <item>@drawable/img_112</item>
+         <item>@drawable/img_114</item>
+         <item>@drawable/img_116</item>
+         <item>@drawable/img_118</item>
+         <item>@drawable/img_120</item>
+         <item>@drawable/img_122</item>
+         <item>@drawable/img_124</item>
+         <item>@drawable/img_126</item>
+         <item>@drawable/img_128</item>
+         <item>@drawable/img_130</item>
+         <item>@drawable/img_132</item>
+         <item>@drawable/img_134</item>
+         <item>@drawable/img_136</item>
+         <item>@drawable/img_138</item>
+         <item>@drawable/img_140</item>
+         <item>@drawable/img_142</item>
+         <item>@drawable/img_144</item>
+         <item>@drawable/img_146</item>
+         <item>@drawable/img_148</item>
+         <item>@drawable/img_150</item>
+         <item>@drawable/img_152</item>
+         <item>@drawable/img_154</item>
+         <item>@drawable/img_156</item>
+         <item>@drawable/img_158</item>
+         <item>@drawable/img_160</item>
+         <item>@drawable/img_162</item>
+         <item>@drawable/img_164</item>
+         <item>@drawable/img_166</item>
+         <item>@drawable/img_168</item>
+         <item>@drawable/img_170</item>
+
+     </integer-array>
+     -->
+
+</resources>

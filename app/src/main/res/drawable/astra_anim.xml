@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/img_100" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_102" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_104" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_106" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_108" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_110" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_112" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_114" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_116" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_118" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_120" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_122" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_124" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_126" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_128" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_130" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_132" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_134" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_136" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_138" android:duration="@integer/frame_anim_delay" />
+
+
+</animation-list>
+
+<!--
+    <item android:drawable="@drawable/img_140" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_142" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_144" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_146" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_148" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_150" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_152" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_154" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_156" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_158" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_160" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_162" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_164" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_168" android:duration="@integer/frame_anim_delay" />
+    <item android:drawable="@drawable/img_170" android:duration="@integer/frame_anim_delay" />
+-->
